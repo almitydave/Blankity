@@ -2,6 +2,8 @@
 
 This is a simple Windows program to blank out connected displays by drawing a black window over the entire screen.  Perhaps you're playing a game on one screen and don't want to be distracted by having extra displays on.  Sure, you could just turn each display off, but maybe it has a built-in USB hub you're using, or the power button is hard to reach....
 
+![screenshot](img/blankity.png)
+
 ## Usage
 
 On startup, the program lists the displays reported by Windows.  By default, all displays except the primary display are checked.  The buttons operate as follows:
